@@ -1,0 +1,35 @@
+goos: darwin
+goarch: arm64
+pkg: github.com/alvarellos/name
+BenchmarkUpper1-12     	106876921	        11.08 ns/op
+BenchmarkUpper1-12     	100000000	        11.24 ns/op
+BenchmarkUpper1-12     	100000000	        11.41 ns/op
+BenchmarkUpper1-12     	100000000	        11.09 ns/op
+BenchmarkUpper1-12     	100000000	        11.20 ns/op
+BenchmarkUpper1-12     	100000000	        11.06 ns/op
+BenchmarkUpper1-12     	100000000	        11.05 ns/op
+BenchmarkUpper1-12     	100000000	        11.07 ns/op
+BenchmarkUpper1-12     	100000000	        10.92 ns/op
+BenchmarkUpper1-12     	100000000	        10.98 ns/op
+BenchmarkUpper10-12    	23060384	        50.42 ns/op
+BenchmarkUpper10-12    	24019935	        49.65 ns/op
+BenchmarkUpper10-12    	24074872	        49.51 ns/op
+BenchmarkUpper10-12    	24132426	        49.35 ns/op
+BenchmarkUpper10-12    	24103705	        49.36 ns/op
+BenchmarkUpper10-12    	24130525	        49.33 ns/op
+BenchmarkUpper10-12    	24281790	        50.14 ns/op
+BenchmarkUpper10-12    	24001419	        51.77 ns/op
+BenchmarkUpper10-12    	23437365	        50.95 ns/op
+BenchmarkUpper10-12    	23539027	        51.43 ns/op
+BenchmarkUpper20-12    	11218591	       107.5 ns/op
+BenchmarkUpper20-12    	11127784	       108.4 ns/op
+BenchmarkUpper20-12    	11038647	       111.5 ns/op
+BenchmarkUpper20-12    	11187181	       108.7 ns/op
+BenchmarkUpper20-12    	11115621	       112.9 ns/op
+BenchmarkUpper20-12    	10549944	       117.1 ns/op
+BenchmarkUpper20-12    	10139934	       116.4 ns/op
+BenchmarkUpper20-12    	10209000	       116.8 ns/op
+BenchmarkUpper20-12    	10490828	       115.7 ns/op
+BenchmarkUpper20-12    	10469316	       115.1 ns/op
+PASS
+ok  	github.com/alvarellos/name	37.910s
