@@ -1,3 +1,3 @@
-module bitbucket.bit.admin.ch/curso/name
+module bitbucket.bit.admin.ch/name
 
 go 1.22.4
